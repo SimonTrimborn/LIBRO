@@ -1,0 +1,29 @@
+
+Name of Quantlet : LIBRObox1
+
+Published in :  'Investing with cryptocurrencies - A LIquidity Bounded Risk-return Optimization approach'
+
+Description : Provides a boxplot comparing the standard deviation of cryptocurrencies against stock markets.
+
+Keywords : 
+ - CRIX
+ - cryptocurrency
+ - crypto
+ - investment
+ - demeaned
+ - boxplot
+
+See also : 
+ - LIBRObox2
+ - LIBROscatter
+ - CRIXcode
+ - CRIXindex
+ - CRIXvarreturn
+ 
+Author : Simon Trimborn, Mingyang Li
+
+Submitted :  Wed, Jan 18 2017 by Simon Trimborn
+
+Datafile : CryptoData.RData, DAX30comPrice.xlsx, DAX30comVolume.xlsx, PSIcomPrice.xlsx, PSIcomVolume.xlsx, PSIcomTurnover.xlsx, S&P500comPrice.xlsx, S&P500comVolume.xlsx, S&P500comTurnoverValue.xlsx
+
+Example: Provides a boxplot comparing the standard deviation of the demeaned log returns of cryptocurrencies against the stocks in S&P500, DAX30 and PSI20 (Portugal).

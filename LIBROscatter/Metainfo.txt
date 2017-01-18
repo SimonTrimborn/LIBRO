@@ -1,0 +1,28 @@
+
+Name of Quantlet : LIBROscatter
+
+Published in :  'Investing with cryptocurrencies - A LIquidity Bounded Risk-return Optimization approach'
+
+Description : Provides the scatter plot of log returns of gold, US treasury bond 3 yr and CRIX.
+
+Keywords : 
+ - CRIX
+ - cryptocurrency
+ - crypto
+ - investment
+ - GARCH
+
+See also : 
+ - LIBRObox1
+ - LIBRObox2
+ - CRIXcode
+ - CRIXindex
+ - CRIXvarreturn
+ 
+Author : Simon Trimborn, Mingyang Li
+
+Submitted :  Wed, Jan 18 2017 by Simon Trimborn
+
+Datafile : crix.RData, gold_price.xlsx, USA_yield_curve.xlsx
+
+Example: Scatter plot of log returns of gold, US treasury bond 3 yr and CRIX.

@@ -1,0 +1,30 @@
+
+Name of Quantlet : LIBRObox2
+
+Published in :  'Investing with cryptocurrencies - A LIquidity Bounded Risk-return Optimization approach'
+
+Description : Provides a boxplot comparing the median trading volume of cryptocurrencies against US stock market.
+
+Keywords : 
+ - CRIX
+ - cryptocurrency
+ - crypto
+ - investment
+ - median
+ - boxplot
+ - trading volume
+
+See also : 
+ - LIBRObox1
+ - LIBROscatter
+ - CRIXcode
+ - CRIXindex
+ - CRIXvarreturn
+ 
+Author : Simon Trimborn, Mingyang Li
+
+Submitted :  Wed, Jan 18 2017 by Simon Trimborn
+
+Datafile : CryptoData.RData, S&P500comPrice.xlsx, S&P500comVolume.xlsx
+
+Example: Provides a boxplot comparing the median trading volume of cryptocurrencies against the stocks in S&P500.
