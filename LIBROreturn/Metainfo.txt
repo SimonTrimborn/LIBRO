@@ -1,0 +1,8 @@
+Name of Quantlet: LIBROreturn
+Published in: 'Investing with cryptocurrencies - A LIquidity Bounded Risk-return Optimization approach'
+Description: 'Add Crypto currencies to Portugal stocks or DAX30 stocks to form portfolios using Markowitz(1952) method.'
+Keywords: crypto, CRIX, cryptocurrency, portfolio, variance, plot, time-series, returns
+Author: Mingyang Li, Simon Trimborn
+Submitted: Wed, January 18, 2016 by Mingyang Li
+Datafile: processed_data.RData
+
